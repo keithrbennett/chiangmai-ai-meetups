@@ -22,43 +22,45 @@ There is also a sister community in Bangkok running similar events, but this rep
 
 ## Sessions
 
-| Date | Day | Series | Highlights |
-|------|-----|--------|------------|
-| [2026-03-28](sessions/2026-03-28-ai-engineers.md) | Sat | AI Engineers | Enterprise Claude Code rollout, knowledge management, auto mode, Codex plugins |
-| [2026-03-27](sessions/2026-03-27-agents-in-the-wild.md) | Fri | Agents in the Wild | Agent verification, multi-agent workflow demo, ALS framework |
-| [2026-03-21](sessions/2026-03-21-ai-engineers.md) | Sat | AI Engineers | Scheduled tasks, token pricing, GPT 5.4 mini, auto-research |
-| [2026-03-20](sessions/2026-03-20-agents-in-the-wild.md) | Fri | Agents in the Wild | Open Claw in China, A2A protocol, agent language specification |
-| [2026-03-14](sessions/2026-03-14-ai-engineers.md) | Sat | AI Engineers | 1M-token Opus context, AI employees for enterprises, prompt injection |
-| [2026-03-13](sessions/2026-03-13-agents-in-the-wild.md) | Fri | Agents in the Wild | Agent security, Paperclip control plane, orchestration tools landscape |
-| [2026-03-06](sessions/2026-03-06-agents-in-the-wild.md) | Fri | Agents in the Wild | Multi-agent code review, open-source agent tools, OpenClaw 30-day review |
-| [2026-02-28](sessions/2026-02-28-ai-engineers.md) | Sat | AI Engineers | Context graphs, AI agent authorisation, Anthropic military AI limits |
-| [2026-02-21](sessions/2026-02-21-ai-engineers.md) | Sat | AI Engineers | Agents SDK, Claude Code Desktop preview, CoWork personal agent platform |
-| [2026-02-14](sessions/2026-02-14-ai-engineers.md) | Sat | AI Engineers | Construction app demos, LLM memory systems, Neo4j graph databases |
-| [2026-02-07](sessions/2026-02-07-ai-engineers.md) | Sat | AI Engineers | Valor Ingles autonomous employee, agent security, panel discussion |
-| [2026-01-31](sessions/2026-01-31-ai-engineers.md) | Sat | AI Engineers | Kimi K2.5, MCP UI extension, skills vs MCPs, Claude Bot security fiasco |
-| [2026-01-24](sessions/2026-01-24-ai-engineers.md) | Sat | AI Engineers | ChatGPT ads, Vercel skills marketplace, RLM paper, Claude Code internals |
-| [2025-12-27](sessions/2025-12-27-ai-engineers.md) | Sat | AI Engineers | Open-source models, post-training, multi-terminal workflows, swarms |
-| [2025-12-20](sessions/2025-12-20-ai-engineers.md) | Sat | AI Engineers | Claude Code event: SaaS optimisation, Kybernesis, async sub-agents |
-| [2025-11-22](sessions/2025-11-22-ai-engineers.md) | Sat | AI Engineers | Anthropic event planning, Opus 4.5 sub-agents, skills hierarchy |
-| [2025-11-15](sessions/2025-11-15-ai-engineers.md) | Sat | AI Engineers | MCP skills pattern, BMAD integration, code quality |
-| [2025-11-08](sessions/2025-11-08-ai-engineers.md) | Sat | AI Engineers | Claude Code Web vs CLI, MCP optimisation, Kybernosis PKM |
-| [2025-11-01](sessions/2025-11-01-ai-engineers.md) | Sat | AI Engineers | Power bottleneck, context management, AGI definitions |
-| [2025-10-29](sessions/2025-10-29-ai-business.md) | Wed | AI Business | Arbitrage and speed as moat, hardware + domain expertise |
-| [2025-10-25](sessions/2025-10-25-ai-engineers.md) | Sat | AI Engineers | GPT Atlas browser, prompt injection, OpenSpec |
-| [2025-10-18](sessions/2025-10-18-ai-engineers.md) | Sat | AI Engineers | Claude Skills, DORA report, tooling anxiety |
-| [2025-10-15](sessions/2025-10-15-ai-business.md) | Wed | AI Business | OpenAI product feed, AEO, micro vs macro strategy, AI in production |
-| [2025-10-11](sessions/2025-10-11-ai-engineers.md) | Sat | AI Engineers | Rate limits, context anxiety, OpenAI commerce protocol |
-| [2025-10-04](sessions/2025-10-04-ai-engineers.md) | Sat | AI Engineers | Surgeon vs Tool-Caller workflow, "Samantha" autonomous agent |
-| [2025-08-09](sessions/2025-08-09-ai-engineers.md) | Sat | AI Engineers | GPT-5 vs Claude, model intimacy, debugging strategies |
-| [2025-08-06](sessions/2025-08-06-ai-business.md) | Wed | AI Business | Synthetic users, sales automation, international incorporation |
-| [2025-06-14](sessions/2025-06-14-ai-engineers.md) | Sat | AI Engineers | New IDE paradigm, git worktree for agents, Bruno's open-source stack |
+| Date | Series | Highlights |
+|------|--------|------------|
+| [2026-03-28](sessions/2026-03-28-ai-engineers.md) | AI Engineers | Enterprise Claude Code rollout, knowledge management, auto mode, Codex plugins |
+| [2026-03-27](sessions/2026-03-27-agents-in-the-wild.md) | Agents in the Wild | Agent verification, multi-agent workflow demo, ALS framework |
+| [2026-03-21](sessions/2026-03-21-ai-engineers.md) | AI Engineers | Scheduled tasks, token pricing, GPT 5.4 mini, auto-research |
+| [2026-03-20](sessions/2026-03-20-agents-in-the-wild.md) | Agents in the Wild | Open Claw in China, A2A protocol, agent language specification |
+| [2026-03-14](sessions/2026-03-14-ai-engineers.md) | AI Engineers | 1M-token Opus context, AI employees for enterprises, prompt injection |
+| [2026-03-13](sessions/2026-03-13-agents-in-the-wild.md) | Agents in the Wild | Agent security, Paperclip control plane, orchestration tools landscape |
+| [2026-03-06](sessions/2026-03-06-agents-in-the-wild.md) | Agents in the Wild | Multi-agent code review, open-source agent tools, OpenClaw 30-day review |
+| [2026-02-28](sessions/2026-02-28-ai-engineers.md) | AI Engineers | Context graphs, AI agent authorisation, Anthropic military AI limits |
+| [2026-02-21](sessions/2026-02-21-ai-engineers.md) | AI Engineers | Agents SDK, Claude Code Desktop preview, CoWork personal agent platform |
+| [2026-02-14](sessions/2026-02-14-ai-engineers.md) | AI Engineers | Construction app demos, LLM memory systems, Neo4j graph databases |
+| [2026-02-07](sessions/2026-02-07-ai-engineers.md) | AI Engineers | Valor Ingles autonomous employee, agent security, panel discussion |
+| [2026-01-31](sessions/2026-01-31-ai-engineers.md) | AI Engineers | Kimi K2.5, MCP UI extension, skills vs MCPs, Claude Bot security fiasco |
+| [2026-01-24](sessions/2026-01-24-ai-engineers.md) | AI Engineers | ChatGPT ads, Vercel skills marketplace, RLM paper, Claude Code internals |
+| [2025-12-27](sessions/2025-12-27-ai-engineers.md) | AI Engineers | Open-source models, post-training, multi-terminal workflows, swarms |
+| [2025-12-20](sessions/2025-12-20-ai-engineers.md) | AI Engineers | Claude Code event: SaaS optimisation, Kybernesis, async sub-agents |
+| [2025-11-22](sessions/2025-11-22-ai-engineers.md) | AI Engineers | Anthropic event planning, Opus 4.5 sub-agents, skills hierarchy |
+| [2025-11-15](sessions/2025-11-15-ai-engineers.md) | AI Engineers | MCP skills pattern, BMAD integration, code quality |
+| [2025-11-08](sessions/2025-11-08-ai-engineers.md) | AI Engineers | Claude Code Web vs CLI, MCP optimisation, Kybernosis PKM |
+| [2025-11-01](sessions/2025-11-01-ai-engineers.md) | AI Engineers | Power bottleneck, context management, AGI definitions |
+| [2025-10-29](sessions/2025-10-29-ai-business.md) | AI Business | Arbitrage and speed as moat, hardware + domain expertise |
+| [2025-10-25](sessions/2025-10-25-ai-engineers.md) | AI Engineers | GPT Atlas browser, prompt injection, OpenSpec |
+| [2025-10-18](sessions/2025-10-18-ai-engineers.md) | AI Engineers | Claude Skills, DORA report, tooling anxiety |
+| [2025-10-15](sessions/2025-10-15-ai-business.md) | AI Business | OpenAI product feed, AEO, micro vs macro strategy, AI in production |
+| [2025-10-11](sessions/2025-10-11-ai-engineers.md) | AI Engineers | Rate limits, context anxiety, OpenAI commerce protocol |
+| [2025-10-04](sessions/2025-10-04-ai-engineers.md) | AI Engineers | Surgeon vs Tool-Caller workflow, "Samantha" autonomous agent |
+| [2025-08-09](sessions/2025-08-09-ai-engineers.md) | AI Engineers | GPT-5 vs Claude, model intimacy, debugging strategies |
+| [2025-08-06](sessions/2025-08-06-ai-business.md) | AI Business | Synthetic users, sales automation, international incorporation |
+| [2025-06-14](sessions/2025-06-14-ai-engineers.md) | AI Engineers | New IDE paradigm, git worktree for agents, Bruno's open-source stack |
 
-## Structure
+## Venues
 
-```
-sessions/       One markdown file per session (YYYY-MM-DD-series.md)
-venues.md       Venue names and GPS coordinates
-```
+| Name | Lat | Lon | Notes |
+|------|-----|-----|-------|
+| The Kannas | 18.811480 | 98.978559 | Current venue (2026+) |
+| 4Seas | 18.795802 | 98.966328 | Previous Saturday/Friday venue |
+| Darkstar HQ | 18.802509 | 98.963958 | Previous Wednesday venue |
+| Morestto | 18.799763 | 98.964108 | Early 2025 venue |
 
 Each session file has YAML frontmatter with date, series, venue, and optional fields like duration, speaker count, and YouTube links where available.
 

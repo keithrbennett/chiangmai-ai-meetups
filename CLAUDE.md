@@ -35,7 +35,7 @@ Body format: `# Series Name — Month Day, Year` title, optional overview paragr
 
 ## Venue lookup
 
-`venues.md` has GPS coordinates for all venues. When determining venue for a new session, match against these coordinates (within 200m). The venue transitioned from 4Seas to The Kannas around Feb 2026.
+The Venues section in README.md has GPS coordinates for all venues. When determining venue for a new session, match against these coordinates (within 200m). The venue transitioned from 4Seas to The Kannas around Feb 2026.
 
 ## README maintenance
 
