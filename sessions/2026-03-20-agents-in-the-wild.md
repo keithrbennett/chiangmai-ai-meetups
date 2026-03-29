@@ -20,11 +20,11 @@ The group discussed Baidu's offering at $2.50/month, debating whether inference 
 
 One participant noted you can simply change an iPad's App Store to Chinese and browse the top 100 apps to see what's happening — "it's not North Korea... we could fly there tonight."
 
-## 2. Manis (Meta's Personal Agent)
+## 2. Manus (Meta's Personal Agent)
 
-Meta recently acquired Manis, which now offers a personal agent system that runs locally on your laptop. The group saw it as yet another entrant in the growing field of agent systems (alongside Open Claw, Nano Claw, Iron Claw, Termies, Paperclip, etc.).
+Meta recently acquired Manus, which now offers a personal agent system that runs locally on your laptop. The group saw it as yet another entrant in the growing field of agent systems (alongside Open Claw, Nano Claw, Iron Claw, Termies, Paperclip, etc.).
 
-Nobody had tried it. There was speculation it might just be a wrapper around Claude Code or a similar harness underneath. One participant noted Manis was originally a chat product built into Messenger years ago, so this may be a pivot. The key differentiator they noticed was the local-first approach, but the features ("build an app") looked identical to existing tools.
+Nobody had tried it. There was speculation it might just be a wrapper around Claude Code or a similar harness underneath. One participant noted Manus was originally a chat product built into Messenger years ago, so this may be a pivot. The key differentiator they noticed was the local-first approach, but the features ("build an app") looked identical to existing tools.
 
 ## 3. Google's A2A Protocol
 

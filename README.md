@@ -2,7 +2,7 @@
 
 This is the shared knowledge base of the AI community in Chiang Mai, Northern Thailand. A group of engineers, builders, and entrepreneurs who meet regularly to discuss what's happening in AI, share what they're building, and figure out together where things are heading.
 
-We started meeting in mid-2025 and have been documenting our sessions ever since. AI is moving fast. New models, tools, protocols, and business opportunities appear every week. Rather than let all of that collective knowledge disappear after each meeting, we decided to write it down. This repository is the result: detailed abridgments of every session, capturing the tools discussed, the arguments made, the ideas proposed, and the lessons learned.
+We started meeting in late 2023 (meetup page [here](https://www.meetup.com/coding-in-bangkok/events/297451719/)) and have been documenting our sessions since mid-2025. AI is moving fast. New models, tools, protocols, and business opportunities appear every week. Rather than let all of that collective knowledge disappear after each meeting, we decided to write it down. This repository is the result: detailed abridgments of every session, capturing the tools discussed, the arguments made, the ideas proposed, and the lessons learned.
 
 If you missed a session, you can read what happened. If you're new to the community, you can browse the archive to see what we've been tracking. And if you're anywhere in the world trying to keep up with AI from a practitioner's perspective, these notes might be useful. They're written by people who are building with this technology every day, not just reading about it.
 
